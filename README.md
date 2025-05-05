@@ -36,7 +36,7 @@ EduHub is an e-learning platform designed to provide users with a seamless onlin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SpringBoardMentor115/EduHub.git
+    git clone https://github.com/ausafshaikhh/EduHub.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -55,7 +55,7 @@ EduHub is an e-learning platform designed to provide users with a seamless onlin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SpringBoardMentor115/EduHub.git
+    git clone https://github.com/ausafshaikhh/EduHub.git
     ```
 2. Navigate to the project directory:
     ```bash
